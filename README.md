@@ -12,7 +12,7 @@ This project focuses on designing the user interface and inventory logic for a p
 
 ## 📊 Visuals
 
-![Inventory Wireframe](link-to-your-wireframe-image.png)
+![Inventory Wireframe]https://github.com/britneyzportfolio/project3/blob/main/pro3.png
 
 ## 🔑 Key Features
 * **Inventory Dashboard Wireframe:** Designed a clean user interface to provide a snapshot of current stock and critical alerts.
