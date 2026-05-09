@@ -3,7 +3,7 @@
 
 
 ## 📊 Project Preview
-[Sales Dashboard Preview](pro3.png)
+[Dashboard Preview](pro3.png)
 
 
 ## 📌 Business Overview
